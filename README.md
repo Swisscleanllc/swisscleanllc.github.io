@@ -1,11 +1,8 @@
 # swisscleanllc.github.io
 https://www.swisscleanllc.com/ Swiss Clean LLC provides professional residential and commercial cleaning services designed to keep your spaces spotless and healthy. Our experienced team specializes in office cleaning, restroom and kitchen sanitation, floor care, blinds and window treatment cleaning, trash removal, and post-construction cleaning. We offer flexible scheduling, including one-time, weekly, or emergency services, are available 24/7 to meet your cleaning needs. At Swiss Clean LLC, we focus on quality, efficiency, and customer satisfaction, ensuring every space we clean is welcoming and well-maintained.
 Swiss Clean LLC.                             
- customer guides lines.1. Scheduling & Appointments
-	•	Please provide at least 24 hours’ notice for cancellations or rescheduling.
-	•	We offer flexible scheduling: one-time, weekly, or monthly cleaning, including evenings and weekends.
-
-2. Access to Property
+                                          Customer guides lines.1. Scheduling & Appointmennts	Please provide at least 24 hours’ notice for cancellations or rescheduling.
+	•	We offer flexible scheduling: one-time, weekly, or monthly cleaning, including evenings and weekends.      2. Access to Property
 	•	Ensure we have access to all areas to be cleaned.
 	•	Provide keys, codes, or instructions ahead of time if we cannot be let in directly.
 
