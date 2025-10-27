@@ -1,8 +1,8 @@
 # swisscleanllc.github.io
 Swiss clean llc is a janitorial service that catered to your needs we move swift and Swiss making things shine like gold turning office space to look new and  residence home also. Cause we believe in you.
 https://www.swisscleanllc.com/ Swiss Clean LLC provides professional residential and commercial cleaning services designed to keep your spaces spotless and healthy. Our experienced team specializes in office cleaning, restroom and kitchen sanitation, floor care, blinds and window treatment cleaning, trash removal, and post-construction cleaning. We offer flexible scheduling, including one-time, weekly, or emergency services, are available 24/7 to meet your cleaning needs. At Swiss Clean LLC, we focus on quality, efficiency, and customer satisfaction, ensuring every space we clean is welcoming and well-maintained.
-Swiss Clean LLC – Customer Guidelines
-
+Swiss Clean LLC.
+                               Customer guidelines
 1. Scheduling & Appointments
 	•	Please provide at least 24 hours’ notice for cancellations or rescheduling.
 	•	We offer flexible scheduling: one-time, weekly, or monthly cleaning, including evenings and weekends.
@@ -30,3 +30,18 @@ Swiss Clean LLC – Customer Guidelines
 7. Feedback & Communication
 	•	Your satisfaction matters! Please provide feedback to help us improve.
 	•	Contact us immediately if any issues arise so we can address them promptly.
+<!-- Contact Section Start -->
+<section id="contact" style="text-align:center; padding:50px; background-color:#f4f4f4;">
+  
+  <!-- Logo -->
+  <img src="images/logo.png" alt="Swiss Clean LLC Logo" style="max-width:200px; margin-bottom:20px;">
+  
+  <!-- Business Name -->
+  <h2>Swiss Clean LLC</h2>
+  
+  <!-- Contact Info -->
+  <p>📧 Email: <a href="mailto:swisscleanllc@gmail.com">swisscleanllc@gmail.com</a></p>
+  <p>📞 Phone: <a href="tel:+13143269375">(314) 326-9375</a></p>
+  
+  <!-- Optional Message -->
+  <p>We offer professional cleaning services for commercial and office spaces in Greater condition
