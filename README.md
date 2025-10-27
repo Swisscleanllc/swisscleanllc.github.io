@@ -1,6 +1,6 @@
 # swisscleanllc.github.io
-Swiss clean llc is a janitorial service that catered to your needs we move swift a Swiss making things shine like gold turning office space look new and  residence also. Cause we believe in you.
-https://www.swisscleanllc.com/ Swiss Clean LLC provides professional residential and commercial cleaning services designed to keep your spaces spotless and healthy. Our experienced team specializes in office cleaning, restroom and kitchen sanitation, floor care, blinds and window treatment cleaning, trash removal, and post-construction cleaning. We offer flexible scheduling, including one-time, weekly, or emergency services, and are available 24/7 to meet your cleaning needs. At Swiss Clean LLC, we focus on quality, efficiency, and customer satisfaction, ensuring every space we clean is welcoming and well-maintained.
+Swiss clean llc is a janitorial service that catered to your needs we move swift and Swiss making things shine like gold turning office space to look new and  residence home also. Cause we believe in you.
+https://www.swisscleanllc.com/ Swiss Clean LLC provides professional residential and commercial cleaning services designed to keep your spaces spotless and healthy. Our experienced team specializes in office cleaning, restroom and kitchen sanitation, floor care, blinds and window treatment cleaning, trash removal, and post-construction cleaning. We offer flexible scheduling, including one-time, weekly, or emergency services, are available 24/7 to meet your cleaning needs. At Swiss Clean LLC, we focus on quality, efficiency, and customer satisfaction, ensuring every space we clean is welcoming and well-maintained.
 Swiss Clean LLC – Customer Guidelines
 
 1. Scheduling & Appointments
